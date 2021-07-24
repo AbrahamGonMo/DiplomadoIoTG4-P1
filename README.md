@@ -5,3 +5,4 @@ Python 2.7.18
 
 Ejecuta desde la terminal, dentro del mismo directorio:
     python numSuerte.py
+    
