@@ -11,7 +11,7 @@ def saludo():
 if __name__ == "__main__":
     print()
     print(saludo())
-    print("\nTu numero de la suerte es_el...")
+    print("\nTu numero de la suerte_es_el...")
     time.sleep(3)
     print()
     print("\t---> ",numero())
